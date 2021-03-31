@@ -1,0 +1,31 @@
+.navbar {
+	background: linear-gradient( rgba(1, 5, 69), rgba(61, 70, 224));
+}
+
+.btn-primary {
+	background-color: linear-gradient( rgba(1, 5, 69), rgba(61, 70, 224));
+	border: salmon;
+}
+
+.btn-primary:hover {
+	background-color: salmon;
+	border: salmon;
+}
+
+.jumbotron {
+	padding: 176px 0 120;
+	background: linear-gradient( rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/conf.jpeg') no-repeat center / cover;
+	color: #fff;
+}
+
+.speakers {
+	padding: 60px 0;
+}
+
+.speakers .card {
+	margin-bottom: 20px;
+}
+
+.speakers .card-body {
+	height: 252px;
+}
